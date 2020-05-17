@@ -1,4 +1,4 @@
-your_hash = {"boat" => "Titanic"}
+your_hash = {"name" => "Sophie"}
 end
 
 
